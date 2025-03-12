@@ -39,7 +39,7 @@ Els principals casos d'ús de l'aplicació són:
 
 
 ## 3. Solució del sistema  
-- **Repositori i branca principal:** https//:github.com/YerayRodriguezLopez/T4-PR1
+- **Repositori i branca principal:** [https//:github.com/YerayRodriguezLopez/T4-PR1](https://github.com/YerayRodriguezLopez/T4-PR1)
 - **Document README:** Explicació del sistema i instruccions d'ús.
 - **Guia d'estil:** Normes de nomenclatura i estructuració del codi.
 
